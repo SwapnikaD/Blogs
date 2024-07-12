@@ -1,0 +1,89 @@
+Intended audience: Computer Science students, Software Engineers, anybody in Software Development industry.
+
+
+
+Note: My version is the first half of the blog, the AI enhanced version is towards the end. This is not an academic writing; I want my thoughts to be unfiltered and words to be raw and unpolished.
+
+Originally, I did not want my first post to be on uncertainty, but the rapid developments in the field of AI have me here, writing my first post.
+
+Meta has recently released Code Llama 70B, their largest and best-performing model in Code Llama family. More details can be found in their blog and this video. After seeing its performance, it makes me feel dumb and question every choice I have taken so far. Why should I even learn coding when there are models that can do that for us???
+
+Probably, this is how people who perfected the art of complex calculations felt, when calculator usage became mainstream. This is exactly how small-scale manufactures felt before industrialization came along. This is exactly how horse coachman felt before cars became widely popular.
+
+The intention of this post is not to scare you about the disruptive technologies pouring in market every day, but my question here is to highlight what skills are good enough to lead a peaceful life where you don't wake up in the middle of the night because a path-breaking invention cost you, your job.
+
+Apart from general skills like problem-solving, time management, critical thinking, curiosity and attention to detail, skills or areas that are good in general and might ensure our survival in this era:
+
+Security: Cybersecurity is yet to pounce back from the LLMs' impact, so currently that could be considered as a safer skill to have.
+
+Programming: Not general constructs that an LLM can replicate, like finding the second most repeating element in an array or such questions from Leet code, but programming using OOPS concepts and understanding how you can inject and use libraries, how backend talks to frontend.
+
+Architecture: System design is a very important skill, I believe companies should no longer ask trivial programming questions to test the candidate, instead test their system design skills. I know that most of the interviewers have a separate round for this, but I would like this to replace the programming rounds.
+
+Debugging: In my opinion, debugging is a very important skill that can save you ton of time. You need to use tools that help in efficient debugging, which is especially important when you are dealing with erratic data.
+
+Data analysis: It is a basic skill which is good to have, but again AI is smart enough for analysis.
+
+DevOps: A better understanding of this can help make software developer's lives lot easier. It's one skill that can take you a long way.
+
+Project management: Although recent layoffs have hit this role the most, it is always good to have an eye on your future career path in your organization.
+
+Prompt engineering: To work with LLMs and get your required output, all it takes is to change the input in a way, that LLM understands it better. This will be a must-have skill going forward. I wouldn't be surprised if universities start offering courses exclusively for prompt engineering.
+
+Adaptability and learning: IT industry has a disruptive new technology every couple of years that forces the workforce to update themselves with market trends. This is something we all signed up when we decided to choose Computer Science! 
+
+Communication and collaboration: This is the golden skill of all skills, which applies to several other fields out there. "Clear communication" is my topic of interest, and you will see more articles from me on that topic. Collaboration is the heart of a team, so it should not be ignored, and I know it will not be ignored!
+
+Looking Ahead
+
+While the horizon may seem shrouded in uncertainty, it's filled with opportunities for those willing to embrace the winds of change. This blog aims to be a compass in that journey, offering insights and guidance on navigating the evolving landscape of software development.
+
+As we ponder the future, remember that innovation not only challenges but also enriches. Our journey is not about outrunning the machines we create but about leveraging them to reach new heights of creativity and impact.
+
+Stay tuned for more reflections on the intersection of technology, skills, and the human spirit in our quest to thrive amidst the digital revolution.
+
+PS:
+
+Last section "Looking Ahead" is from an LLM which changed this one sentence to whole three paragraphs.
+
+"I hate long articles, so I am closing this article here, but my future articles will be in similar domain."
+
+AI enhanced version for the same article is :
+
+Navigating the Future of Software Development: Beyond Code Generation
+
+In an era where technological advancements unfold at an unprecedented pace, the recent unveiling of Meta's Code Llama 70B—a behemoth in the AI-driven coding landscape—serves as a stark reminder of the relentless march of innovation. This isn't just another development; it's a paradigm shift that challenges our perceptions of software engineering and our roles within it. Yet, as daunting as it may seem, this is not a clarion call to abandon ship but rather an invitation to adapt and thrive.
+
+The Echoes of History
+
+The advent of calculators, the industrial revolution, and the transition from horse-drawn carriages to automobiles are testaments to humanity's resilience in the face of disruptive technologies. Each revolution sparked fears of obsolescence but ultimately led to new horizons of opportunity and innovation. Today, as AI models like Code Llama promise to automate the art of coding, we stand at a similar crossroads.
+
+Crafting a Future-Proof Skillset
+
+The essence of this post is not to alarm but to empower. As we navigate this new landscape, certain skills emerge not just as valuable but as essential pillars for a fulfilling career in software development:
+
+Cybersecurity: With AI reshaping the digital frontier, cybersecurity remains a bastion of opportunity, demanding a nuanced understanding of threat landscapes and defense mechanisms.
+
+Advanced Programming Concepts: Beyond the rudimentary tasks susceptible to automation, a deep dive into Object-Oriented Programming (OOP), library integration, and the nuanced dialogue between backend and frontend systems becomes crucial.
+
+System Architecture: The ability to design robust, scalable systems transcends the transient. It's a skill that not only withstands the test of time but also elevates the strategic impact of developers.
+
+Debugging: A quintessential skill that underscores the importance of precision and patience, offering a direct line to efficiency and effectiveness in problem-solving.
+
+Data Analysis: While AI can parse and interpret data, the human touch in deriving insights and steering strategic decisions remains irreplaceable.
+
+DevOps: Mastery over the pipelines that transform code into customer solutions can dramatically enhance the agility and responsiveness of development teams.
+
+Adaptability and Continuous Learning: The only constant in the IT industry is change. Embracing this reality and committing to lifelong learning is non-negotiable for success.
+
+Prompt Engineering: As AI becomes a staple in development workflows, the ability to craft precise, effective prompts is becoming an art form in its own right, one that may soon find its place in academic curricula.
+
+Communication and Collaboration: The linchpins of any successful team, these skills facilitate the exchange of ideas and the harmonious execution of projects, proving invaluable across all sectors.
+
+Looking Ahead
+
+While the horizon may seem shrouded in uncertainty, it's filled with opportunities for those willing to embrace the winds of change. This blog aims to be a compass in that journey, offering insights and guidance on navigating the evolving landscape of software development.
+
+As we ponder the future, remember that innovation not only challenges but also enriches. Our journey is not about outrunning the machines we create but about leveraging them to reach new heights of creativity and impact.
+
+Stay tuned for more reflections on the intersection of technology, skills, and the human spirit in our quest to thrive amidst the digital revolution.
